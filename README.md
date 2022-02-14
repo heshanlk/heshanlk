@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I [write](https://heididev.com) a lot of JavaScript/Node.js/ES6/Drupal/PHP and other. You can also find me on twitter 💬
+
+[![Follow on Twitter](https://img.shields.io/twitter/follow/heshanlk?style=social&logo=twitter)](https://twitter.com/heshanlk)
+
 ## GitHub Achievements 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=heshanlk&rank=AAA,AA,A,B,C)
