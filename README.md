@@ -6,7 +6,7 @@ I [write](https://heididev.com) a lot of JavaScript/Node.js/ES6/Drupal/PHP and o
 
 ## GitHub Achievements 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=heshanlk&rank=SSS,SS,AAA,AA,A,B,C)
+![trophy](https://github-profile-trophy.vercel.app/?username=heshanlk&rank=SSS,SS,AAA,AA,A,B)
 
 <!--
 **heshanlk/heshanlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
