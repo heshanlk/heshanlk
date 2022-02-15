@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I [write](https://heididev.com) a lot of JavaScript/Node.js/ES6/Drupal/PHP and other on my blog. You can also find me on twitter 💬
+I write a lot of JavaScript/Node.js/ES6/Drupal/PHP and other on [my blog](https://heididev.com). You can also find me on twitter 💬
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/heshanlk?style=social&logo=twitter)](https://twitter.com/heshanlk)
 
