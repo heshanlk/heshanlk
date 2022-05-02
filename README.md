@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write about JavaScript/Node.js/ES6/Drupal/PHP and Open Source software development on [my blog](https://heididev.com). You can also find me on twitter 💬 📫
+I'm the maintainer of the [Drupal video module](https://www.drupal.org/u/heshanlk) and I write about Web/JavaScript/Node.js/ES6/PHP and Open Source software development on [my blog](https://heididev.com). You can also find me on twitter 💬 📫
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/heshanlk?style=social&logo=twitter)](https://twitter.com/heshanlk)
 
